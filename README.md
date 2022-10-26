@@ -43,6 +43,9 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/ 
 Educba-Free Android App Development Course With Certification <br>
 Website- https://www.educba.com/software-development/courses/free-android-app-development-course/ <br>
 <br>
+Fundação Bradesco- Developing Mobile Applications with Android Studio <br>
+Website- https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio <br>
+<br>
 </details>
 
 <details>
@@ -222,8 +225,11 @@ Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
 Cadena - Become a Blockchain Developer <br>
 Website : https://cadena.dev/ <br>
 <br>
-KBA E-Learning Platform - Blockchain Training 
-Website : https://elearning.kba.ai/
+KBA E-Learning Platform - Blockchain Training <br>
+Website : https://elearning.kba.ai/ <br>
+<br>
+metaschool - Learn web3 development with other developers <br>
+Website : https://metaschool.so/ <br>
 </details>
 
 <details>
@@ -457,6 +463,14 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 <br>
 Devops with Docker - Containers for Beginners <br>
 Website - https://devopswithdocker.com <br>
+<br>
+</details>
+
+<details>
+<summary>Flutter</summary>
+<br>
+Introduction to Flutter<br>
+Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
 </details>
 
@@ -1004,7 +1018,14 @@ INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 </details>
-
+<details>
+<summary>
+Beginner Course on Programming and Coding Fundamentals</summary>
+<br>
+Platform:Udemy<br>
+Creator: Haris Samingan<br>
+Website-https://www.udemy.com/course/beginner-course-on-programming/<br>
+<br>
 <details>
 <summary>Power BI for Beginners</summary>
 <br>
