@@ -88,6 +88,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visu
 Kaggle - Data Visualization<br>
 Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
+<br>
+Microsoft Power BI Para Data Science 2.0<br>
+Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
@@ -209,8 +213,6 @@ Website : https://www.greatlearning.in/academy/learn-for-free/courses/blockchain
 DIGITALDEFYND - This page contains 10 best Blockchain free certification courses<br>
 Website : https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser<br>
 <br>
-PLURALSIGHT - Blockchain-Principles and Practices<br>
-Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
 UDEMY - Free Blockchain Courses and Tutorials<br>
 Website : https://www.udemy.com/topic/blockchain/free/<br>
 CryptoZombies - Build DApps By Building Simple Games<br>
@@ -257,8 +259,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <summary> Google Cloud </summary>
 <br> 30 Days of Google Cloud <br>
 Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
-<br> Google Cloud Platform for Begineers<br>
+<br> Google Cloud Platform for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
+<br> Google Cloud Pro (in Italian)<br>
+Website - https://extra.codemotion.com/google-cloud-pro-corsi/ <br>
 <br>
 </details>
 
@@ -352,10 +356,21 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 Information Security<br>
 Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
+Advanced Penetration Testing<br>
+Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
+<br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
 
+</details>
+
+<details>
+<summary> Integration Platform </summary>
+<br>
+Celigo-(iPaas)
+Official Learning Website - https://www.celigo.com/university/
+<br>
 </details>
 
 <details>
@@ -436,6 +451,10 @@ Website-=
 <details>
 <summary>Data Structure & Algorithm</summary>
 <br>
+Jovian- Data Structure & Algorithms in Python<br>
+Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
+<br>
+<br>
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
@@ -445,9 +464,15 @@ Website-https://course.learnbay.co/dsa<br>
 Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
 https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
 <br>
-<br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
 Website-https://www.upgrad.com/us/free-courses/<br>
+<br>
+ Geeks for Geeks- Data Structures and Algorithms - Self Paced<br>
+ Website- https://practice.geeksforgeeks.org/courses/dsa-self-paced<br>
+<br>
+<br>
+ Intro to Data Structures and Algorithms (in Python) by Google<br>
+ Website- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513<br>
 <br>
 </details>
 
@@ -472,6 +497,10 @@ Website - https://devopswithdocker.com <br>
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
+<br>
+Flutter - A Beginners Course<br>
+Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
+<br>
 </details>
 
 <details>
@@ -493,6 +522,9 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introdu
 <br>
 Great learning - Docker for Intermediate Level<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level <br>
+Getting Started with Kubernetes <br>
+Website - https://kube.academy/courses/getting-started
+<br>
 </details>
 
 <details>
@@ -564,6 +596,9 @@ Website- https://www.sololearn.com/learning/1024<br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
   <br>
+Great Learning - JavaScript
+Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi <br>
+<br>
 </details>
 
 <details>
@@ -609,6 +644,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 
 <details>
 <summary>Machine Learning</summary>
+<br>
+Kaggle - Intro to Machine Learning<br>
+Website-https://www.kaggle.com/learn/intro-to-machine-learning<br>
 <br>
 Google Developer Club -Machine Learning Crash Course<br>
 Website-https://www.sololearn.com/learning/1094<br>
@@ -713,6 +751,11 @@ Website-https://www.codecademy.com/learn/learn-php <br>
 Simplilearn - Introduction to PHP Basics<br>
 Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <br>
+<br>
+Great Learning - PHP<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
+<br>
+ 
 </details>
 
 <details>
@@ -808,6 +851,14 @@ Website - https://www.udemy.com/course/introduction-to-flask/<br>
 </details>
 
 <details>
+<summary> Quantum Computing</summary>
+<br>
+The Linux Foundation - Fundamentals of Quantum Computing<br>
+Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
 Geek University - Raspberry Pi free course<br>
@@ -848,6 +899,16 @@ Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
 </details>
 
 <details>
+<summary>Rust</summary>
+<br>
+Educative - Rust
+<br>
+Learn Rust from Scratch <br>
+Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
+<br>
+</details>
+
+<details>
   <summary>Software Testing</summary>
   <br>
   Udemy - Test Automation using Selenium<br>
@@ -882,6 +943,22 @@ Website - https://www.kaggle.com/learn/intro-to-sql <br>
 Udemy - Swift iOS Developer<br>
 Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
+<br>
+Hacking with Swift - 100 days with SwiftUI<br>
+Website-https://www.hackingwithswift.com/100/swiftui/<br>
+<br>
+<br>
+Hacking with Swift - 100 days with Swift<br>
+Website-https://www.hackingwithswift.com/100<br>
+<br>
+<br>
+Ray Wenderlich iOS Tutorial<br>
+Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
+<br>
+<br>
+AppCoda Complete iOS Tutorial<br>
+Website-http://www.appcoda.com/ios-programming-course/<br>
+<br>
 </details>
 
 <details>
@@ -897,6 +974,14 @@ https://www.udacity.com/course/data-visualization-in-tableau--ud1006
 <br>
 COURSERA- Data Visualization and Communication with Tableau<br>
 https://www.coursera.org/learn/analytics-tableau
+<br>
+</details>
+
+<details>
+<summary>Typescript</summary>
+<br>
+Mind Luster TypeScript Course Online For Free tutorial With Certificate<br>
+Website-https://www.mindluster.com/certificate/242<br>
 <br>
 </details>
 
@@ -917,9 +1002,6 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
  <br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
- <br>
- Future Learn-Digital Skills: User Experience<br>
- Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
  <br>
 </details>
 
@@ -967,23 +1049,28 @@ Front end developement libraries : React
 <br>
 website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 <br>
+<br>
+Full Stack Web Development - Newton School<br>
+Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
+<br>
 
 </details>
 
 <details>
 <summary>Introduction to Computer Science</summary>
 <br>
-CS50's Introduction to Computer Science<br>
-Website-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
+<b>CS50's Introduction to Computer Science</b><br>
 <br>
-edX- An introduction to the intellectual enterprises of computer science and the art of programming.<br>
+<em><b>edX-</b> An introduction to the intellectual enterprises of computer science and the art of programming.<br>
  This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
 
 Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
 
 If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
-
-Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
+</em>
+<br><br>
+Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x (Paid Certificate)<br>
+Website- https://cs50.harvard.edu/x/ (free certificate)<br>
 <br>
 
 </details>
@@ -1008,6 +1095,9 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
 <br>
 CodeStudio- Basics of Angular<br>
 Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
+<br>
+Meta FrontEnd- Developer Professional Certificater<br>
+Website-https://www.coursera.org/professional-certificates/meta-front-end-developer<br>
 <br>
 </details>
 
@@ -1052,3 +1142,18 @@ Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
+
+
+
+
+<details>
+<summary>Web 3.0 and  Blockchain </summary>
+<br>
+Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests<br>
+Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY<br>
+<br>
+ 
+</details>
+
+
+
